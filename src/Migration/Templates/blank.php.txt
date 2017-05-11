@@ -1,0 +1,25 @@
+<?php
+
+use Bugotech\Database\Schema\Table;
+
+class {{class}} extends \Bugotech\Database\Migration\Migration
+{
+
+	/**
+	 * Executar migracao
+	 *
+	 * @return void
+	 */
+	public function up()
+	{
+	}
+
+	/**
+	 * Reverter a migracao
+	 *
+	 * @return void
+	 */
+	public function down()
+	{
+	}
+}
